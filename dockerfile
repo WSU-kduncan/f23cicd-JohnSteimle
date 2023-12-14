@@ -3,8 +3,8 @@ RUN apt update
 RUN apt install -y apache2 
 RUN apt install -y apache2-utils 
 RUN apt clean 
-RUN cd /var/www
-RUN  rm -rf html
-COPY html /var/www
+RUN  rm /var/www/html/index.html
+COPY  html/index.php /var/www/html
+COPY  html/styles.css /var/www/html
 EXPOSE 80
-CMD [“apache2ctl”, “-D”, “FOREGROUND”]
+CMD ["apache2ctl", "-D", "FOREGROUND"]
