@@ -1,0 +1,6 @@
+[
+    {
+            "id": "webhook",
+            "execute-command": "/homme/ubuntu/pull-restart.sh"
+    }
+]
