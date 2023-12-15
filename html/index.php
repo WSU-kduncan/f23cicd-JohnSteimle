@@ -22,7 +22,7 @@
         <p>Here is a featured content for this page. Feel free to replace this with your own content. For version 2</p>
         <p> Here is a new version of the website</p>
         <p>Adding to the website </p>
-        <p>Adding this for the demostration this is added too</p>
+        <p>Adding this for the demostration this is added too ading to this</p>
     </main>
 
     <footer>
