@@ -20,6 +20,7 @@
     <main>
         <h2>Featured Content</h2>
         <p>Here is a featured content for this page. Feel free to replace this with your own content. For version 2</p>
+        <p> Here is a new version of the website</p>
     </main>
 
     <footer>
