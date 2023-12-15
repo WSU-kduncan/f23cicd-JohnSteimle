@@ -19,7 +19,7 @@
 
     <main>
         <h2>Featured Content</h2>
-        <p>Here is a featured content for this page. Feel free to replace this with your own content. Small change test</p>
+        <p>Here is a featured content for this page. Feel free to replace this with your own content. Small change test add tag</p>
     </main>
 
     <footer>
